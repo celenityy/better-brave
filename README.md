@@ -4,7 +4,7 @@ My recommendations for the ultimate configuration of the Brave Browser :)
 
 # Get started
 
-**On startup** -> Open the New Tab page
+**On startup** -> `Open the New Tab page`
 
 Customize new tab page -> Background image -> **Show Sponsored Images** -> ❌
 
@@ -34,29 +34,29 @@ Show autocomplete suggestions in the toolbar -> **Browsing History** -> ❌
 
 # Shields
 
-**Tracker & Ads blocking** -> Aggressive (if you don't use another content blocker like uBlock Origin)
+**Tracker & Ads blocking** -> `Aggressive` *(if you don't use another content blocker like uBlock Origin)*
 
-**Upgrade connections to HTTPS** -> Strict
+**Upgrade connections to HTTPS** -> `Strict`
 
-**Block scripts** -> ✅ (if you're fine with some breakage and don't use another content blocker like uBlock Origin)
+**Block scripts** -> ✅ *(if you're fine with some breakage and don't use another content blocker like uBlock Origin)*
 
 **Block fingerprinting** -> ✅ *(Should be default)*
 
-**Block cookies** -> Block third-party cookies *(Should be default)*
+**Block cookies** -> `Block third-party cookies` *(Should be default)*
 
-**Forget me when I close a site** -> ✅ (This feature drastically improves privacy, I would highly recommend using it and just setting exceptions for sites you need to stay logged in to)
+**Forget me when I close a site** -> ✅ *(This feature drastically improves privacy, I would highly recommend using it and just setting exceptions for sites you need to stay logged in to)*
 
-**Content filtering:** (Only relevant if you don't use another content blocker like uBlock Origin)
+**Content filtering:** *(Only relevant if you don't use another content blocker like uBlock Origin)*
 
-EasyList Cookie -> ✅
+* `EasyList Cookie` -> ✅
 
-Fanboy's Annoyances + uBO Annoyances** -> ✅
+* `Fanboy's Annoyances + uBO Annoyances` -> ✅
 
-Fanboy's Social -> ✅
+* `Fanboy's Social` -> ✅
 
-Fanboy's Anti-Newsletter -> ✅
+* `Fanboy's Anti-Newsletter` -> ✅
 
-Fanboy's Mobile Notifications -> ✅
+* `Fanboy's Mobile Notifications` -> ✅
 
 
 **Allow Facebook logins and embedded posts** -> ❌
@@ -81,60 +81,60 @@ Autofill form data -> ✅ *(You should not save info in your browser like this f
 
 **Security:** 
 
-Safe Browsing -> Standard protection
+Safe Browsing -> `Standard protection`
 
 Use secure DNS -> ✅
 
 Select DNS provider -> Add custom DNS service provider -> Pick a private/secure DNS provider of your choice, I would recommend setting up your own [NextDNS](https://nextdns.io) configuration if you are able to (See my recommendations for NextDNS [here](https://codeberg.org/Magnesium1062/nextdns-settings), otherwise I would recommend [Quad9](https://quad9.net/): `https://dns.quad9.net/dns-query` (Even if you have a private/secure DNS provider set on your OS/network level, make sure to still set it here too like this, so that you can take advantage of [Encrypted Client Hello](https://blog.cloudflare.com/announcing-encrypted-client-hello))
 
-**Site and Shields Settings:**
+Site and Shields Settings:
 
-Location -> Don't allow sites to see your location
+**Location** -> `Don't allow sites to see your location`
 
-Camera -> Don't allow sites to use your camera *(Obviously don't set if you use sites that need camera access, but you can still set exceptions for sites if needed)*
+**Camera** -> `Don't allow sites to use your camera` *(Obviously don't set if you use sites that need camera access, but you can still set exceptions for sites if needed)*
 
-Microphone -> Don't allow sites to use your microphone *(Obviously don't set if you use sites that need microphone access, but you can still set exceptions for sites if needed)*
+**Microphone** -> `Don't allow sites to use your microphone` *(Obviously don't set if you use sites that need microphone access, but you can still set exceptions for sites if needed)*
 
-Notifications -> Don't allow sites to send notifications
+**Notifications** -> `Don't allow sites to send notifications`
 
-Motion Sensors -> Don't allow sites to use motion sensors *(Should be default)*
+**Motion Sensors** -> `Don't allow sites to use motion sensors` *(Should be default)*
 
-Autoplay -> Block sites from autoplaying videos
+**Autoplay** -> `Block sites from autoplaying videos`
 
-Google Sign-In -> Don't allow legacy Google Sign-In via third-party cookies
+**Google Sign-In** -> `Don't allow legacy Google Sign-In via third-party cookies`
 
-Ethereum -> Block sites from accessing the Ethereum provider API
+**Ethereum** -> `Block sites from accessing the Ethereum provider API`
 
-Solana -> Block sites from accessing the Solana provider API
+**Solana** -> `Block sites from accessing the Solana provider API`
 
-MIDI device control & reprogram -> Don't allow sites to control and reprogram your MIDI devices
+**MIDI device control & reprogram** -> `Don't allow sites to control and reprogram your MIDI devices`
 
-USB devices -> Don't allow sites to connect to USB devices
+**USB devices** -> `Don't allow sites to connect to USB devices`
 
-File editing -> Don't allow sites to edit files or folders on your device
+**File editing** -> `Don't allow sites to edit files or folders on your device`
 
-HID devices -> Don't allow sites to connect to HID devices
+**HID devices** -> `Don't allow sites to connect to HID devices`
 
-Clipboard -> Don't allow sites to see text or images on your clipboard
+**Clipboard** -> `Don't allow sites to see text or images on your clipboard`
 
-Payment handlers -> Don't allow sites to install payment handlers
+**Payment handlers** -> `Don't allow sites to install payment handlers`
 
-Augmented reality -> Do not allow sites to create a 3D map of your surroundings or track camera position
+**Augmented reality** -> `Do not allow sites to create a 3D map of your surroundings or track camera position`
 
-Virtual reality -> Don't allow sites to use virtual reality devices or data
+**Virtual reality** -> `Don't allow sites to use virtual reality devices or data`
 
-Window management -> Don't allow sites to manage windows on all your displays
+**Window management** -> `Don't allow sites to manage windows on all your displays`
 
-Fonts -> Don't allow sites to use fonts installed on your device
+**Fonts** -> `Don't allow sites to use fonts installed on your device`
 
-Pop-ups and redirects -> Don't allow sites to send pop-ups or use redirects *(Should be default)*
+**Pop-ups and redirects** -> `Don't allow sites to send pop-ups or use redirects` *(Should be default)*
 
-Protected content IDs -> Don't allow sites to play protected content - https://www.eff.org/deeplinks/2017/10/drms-dead-canary-how-we-just-lost-web-what-we-learned-it-and-what-we-need-do-next
+**Protected content IDs** -> `Don't allow sites to play protected content` - https://www.eff.org/deeplinks/2017/10/drms-dead-canary-how-we-just-lost-web-what-we-learned-it-and-what-we-need-do-next
 
-V8 optimizer -> Don't allow sites to use the V8 optimizer
+**V8 optimizer** -> `Don't allow sites to use the V8 optimizer`
 
 
-**WebRTC IP handling policy** -> Disable non-proxied UDP *(Don't set this if you have to call on the web through services like Discord & Zoom)*
+**WebRTC IP handling policy** -> `Disable non-proxied UDP` *(Don't set this if you have to call on the web through services like Discord & Zoom)*
 
 **Use Google services for push messaging** -> ❌ *(Should be default)*
 
@@ -156,9 +156,9 @@ V8 optimizer -> Don't allow sites to use the V8 optimizer
 
 # Web3
 
-**Default Ethereum wallet** -> Extensions (no fallback)
+**Default Ethereum wallet** -> `Extensions (no fallback)`
 
-**Default Solana wallet** -> Extensions (no fallback)
+**Default Solana wallet** -> `Extensions (no fallback)`
 
 **Enable NFT discovery** -> ❌
 
@@ -166,7 +166,7 @@ V8 optimizer -> Don't allow sites to use the V8 optimizer
 
 **Automatically pin NFTs** -> ❌
 
-**Method to resolve IPFS resources** -> Disabled
+**Method to resolve IPFS resources** -> `Disabled`
 
 **IPFS public gateway fallback** -> ❌
 
@@ -174,17 +174,17 @@ V8 optimizer -> Don't allow sites to use the V8 optimizer
 
 **IPFS companion** -> ❌
 
-**Resolve Unstoppable Domains domain names** -> Disabled
+**Resolve Unstoppable Domains domain names** -> `Disabled`
 
-**Resolve Ethereum Name Service (ENS) domain names** -> Disabled
+**Resolve Ethereum Name Service (ENS) domain names** -> `Disabled`
 
-**Resolve Solana Name Service (SNS) domain names** -> Disabled
+**Resolve Solana Name Service (SNS) domain names** -> `Disabled`
 
 # Search engine
 
-**Normal Window - Search engine used in the address bar** -> Brave
+**Normal Window - Search engine used in the address bar** -> `Brave`
 
-**Private Window - Search engine used in the address bar** -> Brave
+**Private Window - Search engine used in the address bar** -> `Brave`
 
 **Improve search suggestions** -> ❌
 
@@ -192,9 +192,10 @@ V8 optimizer -> Don't allow sites to use the V8 optimizer
 
 **Manage search engines and site search:**
 
-Remove any search engines here you don't use (i.e. Google & Bing)
+Remove any search engines here you don't use (i.e. `Google` & `Bing`)
 
-Site Search -> History -> 3 dots -> Deactivate
+
+Site Search -> **History** -> 3 dots -> `Deactivate`
 
 
 # Extensions
@@ -237,47 +238,47 @@ Addresses & more -> **Save and fill addresses** -> ❌ *(You should not save inf
 
 # brave://flags
 
-**#back-forward-cache** -> Disabled
+**#back-forward-cache** -> `Disabled`
 
-**#brave-adblock-default-1p-blocking** -> Enabled
+**#brave-adblock-default-1p-blocking** -> `Enabled`
 
-**#brave-ads-should-always-run-brave-ads-service** -> Disabled
+**#brave-ads-should-always-run-brave-ads-service** -> `Disabled`
 
-**#brave-ads-should-support-search-result-ads** -> Disabled
+**#brave-ads-should-support-search-result-ads** -> `Disabled`
 
-**#brave-ads-should-always-trigger-search-result-ad-events** -> Disabled
+**#brave-ads-should-always-trigger-search-result-ad-events** -> `Disabled`
 
-**#brave-copy-clean-link-by-default** -> Enabled
+**#brave-copy-clean-link-by-default** -> `Enabled`
 
-**#brave-extension-network-blocking** -> Enabled
+**#brave-extension-network-blocking** -> `Enabled`
 
-**#brave-ipfs** -> Disabled
+**#brave-ipfs** -> `Disabled`
 
-**#brave-news-peek** -> Disabled *(Don't set if you use Brave News)*
+**#brave-news-peek** -> `Disabled` *(Don't set if you use Brave News)*
 
-**#brave-rewards-allow-self-custody-providers** -> Disabled
+**#brave-rewards-allow-self-custody-providers** -> `Disabled`
 
-**#brave-rewards-vbat-notice** -> Disabled
+**#brave-rewards-vbat-notice** -> `Disabled`
 
-**#brave-rewards-gemini** -> Disabled
+**#brave-rewards-gemini** -> `Disabled`
 
-**#brave-sync-v2** -> Disabled *(Don't set if you use Brave Sync)*
+**#brave-sync-v2** -> `Disabled` *(Don't set if you use Brave Sync)*
 
-**#brave-vpn** -> Disabled
+**#brave-vpn** -> `Disabled`
 
-**#brave-wallet-bitcoin** -> Disabled
+**#brave-wallet-bitcoin** -> `Disabled`
 
-**#brave-wallet-zcash** -> Disabled
+**#brave-wallet-zcash** -> `Disabled`
 
-**#enable-nft-pinning** -> Disabled
+**#enable-nft-pinning** -> `Disabled`
 
-**#enable-parallel-downloading** -> Enabled
+**#enable-parallel-downloading** -> `Enabled`
 
-**#native-brave-wallet** -> Disabled
+**#native-brave-wallet** -> `Disabled`
 
-**#sanitizer-api** -> Enabled
+**#sanitizer-api** -> `Enabled`
 
-**#strict-origin-isolation** -> Enabled
+**#strict-origin-isolation** -> `Enabled`
 
 # Additional recommendations
 
