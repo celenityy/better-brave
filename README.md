@@ -260,7 +260,7 @@ Addresses & more -> **Save and fill addresses** -> ❌ *(You should not save inf
 
 **#brave-ipfs** -> `Disabled`
 
-**#brave-news-peek** -> `Disabled` *(Don't set if you use Brave News)*
+**#brave-news-peek** -> `Disabled`
 
 **#brave-rewards-allow-self-custody-providers** -> `Disabled`
 
