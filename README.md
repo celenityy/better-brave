@@ -2,6 +2,8 @@
 
 My recommendations for the ultimate configuration of the Brave Browser :)
 
+**NOTE:** This is specifically tailored for Brave on Desktop. For Android, see [here](https://codeberg.org/Magnesium1062/better-brave-android).
+
 # Get started
 
 **On startup** -> `Open the New Tab page`
