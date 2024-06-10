@@ -220,6 +220,8 @@ Password Manager -> Settings -> **Sign in automatically** -> ❌
 
 Payment methods -> **Save and fill payment methods** -> ❌ *(You should not save info in your browser like this for security reasons, use a dedicated password manager like Bitwarden or Proton Pass instead)*
 
+Payment methods -> **Manually verify every time you pay using autofill** -> ✅
+
 Payment methods -> **Allow sites to check if you have payment methods saved** -> ❌
 
 Addresses & more -> **Save and fill addresses** -> ❌ *(You should not save info in your browser like this for security reasons, use a dedicated password manager like Bitwarden or Proton Pass instead)*
