@@ -58,6 +58,8 @@ Show autocomplete suggestions in the toolbar -> **Browsing History** -> ❌
 
 * `Fanboy's Mobile Notifications` -> ✅
 
+* `Fanboy's Anti-chat Apps` -> ✅
+
 
 **Allow Facebook logins and embedded posts** -> ❌
 
