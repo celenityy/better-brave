@@ -85,7 +85,7 @@ Autofill form data -> ✅ *(You should not save info in your browser like this f
 
 **Security:** 
 
-Safe Browsing -> `Standard protection`
+Safe Browsing -> `Standard protection` *(Should be default)*
 
 Use secure DNS -> ✅
 
