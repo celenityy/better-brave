@@ -40,7 +40,7 @@ Show autocomplete suggestions in the toolbar -> **Browsing History** -> ❌
 
 **Upgrade connections to HTTPS** -> `Strict`
 
-**Block scripts** -> ✅ *(if you're fine with some breakage and don't use another content blocker like uBlock Origin)*
+**Block scripts** -> ✅ *(This **will** cause breakage, but it heavily improves privacy & security, so I'd recommend enabling it if possible and if you're willing to re-enable scripts on sites that need it)*
 
 **Block fingerprinting** -> ✅ *(Should be default)*
 
