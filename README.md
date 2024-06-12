@@ -2,7 +2,7 @@
 
 My recommendations for the ultimate configuration of the Brave Browser :)
 
-**NOTE:** This is specifically tailored for Brave on Desktop. For Android, see [here](https://codeberg.org/Magnesium1062/better-brave-android).
+**NOTE:** This is specifically tailored for Brave on Desktop. For Android, see [here](https://codeberg.org/Magnesium1062/better-brave-android), and for iOS, see [here](https://codeberg.org/Magnesium1062/better-brave-ios).
 
 # Get started
 
