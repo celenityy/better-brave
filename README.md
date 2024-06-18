@@ -65,6 +65,7 @@ Show autocomplete suggestions in the toolbar -> **Browsing History** -> ❌
 
 * `Fanboy's Anti-chat Apps` -> ✅
 
+<br>
 
 **Allow Facebook logins and embedded posts** -> ❌
 
@@ -76,70 +77,75 @@ Show autocomplete suggestions in the toolbar -> **Browsing History** -> ❌
 
 Clear browsing data -> **On exit:**
 
-Browsing history -> ✅
+* Browsing history -> ✅
 
-Download history -> ✅
+* Download history -> ✅
 
-Cached images and files -> ✅
+* Cached images and files -> ✅
 
-Passwords and passkeys -> ✅ *(You should not save info in your browser like this for security reasons, use a dedicated password manager like Bitwarden or Proton Pass instead)*
+* Passwords and passkeys -> ✅ *(You should not save info in your browser like this for security reasons, use a dedicated password manager like Bitwarden or Proton Pass instead)*
 
-Autofill form data -> ✅ *(You should not save info in your browser like this for security reasons, use a dedicated password manager like Bitwarden or Proton Pass instead)*
+* Autofill form data -> ✅ *(You should not save info in your browser like this for security reasons, use a dedicated password manager like Bitwarden or Proton Pass instead)*
+
+<br>
 
 Security:
 
-**Safe Browsing** -> `Standard protection` *(Should be default)*
+* **Safe Browsing** -> `Standard protection` *(Should be default)*
 
-**Use secure DNS** -> ✅
+* **Use secure DNS** -> ✅
 
-Select DNS provider -> **Add custom DNS service provider** -> Pick a private, secure, & reputable DNS provider of your choice, I would recommend setting up your own [NextDNS](https://nextdns.io) configuration if you are able to (See my recommendations for NextDNS [here](https://codeberg.org/Magnesium1062/nextdns-settings)), otherwise I would recommend [Quad9](https://quad9.net/): `https://dns.quad9.net/dns-query` *(Even if you have a private/secure DNS provider set on your OS/network level, make sure to still set it here too like this, so that you can take advantage of [Encrypted Client Hello](https://blog.cloudflare.com/announcing-encrypted-client-hello))*
+* `Select DNS provider` -> **Add custom DNS service provider** -> Pick a private, secure, & reputable DNS provider of your choice, I would recommend setting up your own [NextDNS](https://nextdns.io) configuration if you are able to (See my recommendations for NextDNS [here](https://codeberg.org/Magnesium1062/nextdns-settings)), otherwise I would recommend [Quad9](https://quad9.net/): `https://dns.quad9.net/dns-query` *(Even if you have a private/secure DNS provider set on your OS/network level, make sure to still set it here too like this, so that you can take advantage of [Encrypted Client Hello](https://blog.cloudflare.com/announcing-encrypted-client-hello))*
+
+<br>
 
 Site and Shields Settings:
 
-**Location** -> `Don't allow sites to see your location`
+* **Location** -> `Don't allow sites to see your location`
 
-**Camera** -> `Don't allow sites to use your camera` *(Obviously don't set if you use sites that need camera access, but you can still set exceptions for sites if needed)*
+* **Camera** -> `Don't allow sites to use your camera` *(Obviously don't set if you use sites that need camera access, but you can still set exceptions for sites if needed)*
 
-**Microphone** -> `Don't allow sites to use your microphone` *(Obviously don't set if you use sites that need microphone access, but you can still set exceptions for sites if needed)*
+* **Microphone** -> `Don't allow sites to use your microphone` *(Obviously don't set if you use sites that need microphone access, but you can still set exceptions for sites if needed)*
 
-**Notifications** -> `Don't allow sites to send notifications`
+* **Notifications** -> `Don't allow sites to send notifications`
 
-**Motion Sensors** -> `Don't allow sites to use motion sensors` *(Should be default)*
+* **Motion Sensors** -> `Don't allow sites to use motion sensors` *(Should be default)*
 
-**Autoplay** -> `Block sites from autoplaying videos`
+* **Autoplay** -> `Block sites from autoplaying videos`
 
-**Google Sign-In** -> `Don't allow legacy Google Sign-In via third-party cookies`
+* **Google Sign-In** -> `Don't allow legacy Google Sign-In via third-party cookies`
 
-**Ethereum** -> `Block sites from accessing the Ethereum provider API`
+* **Ethereum** -> `Block sites from accessing the Ethereum provider API`
 
-**Solana** -> `Block sites from accessing the Solana provider API`
+* **Solana** -> `Block sites from accessing the Solana provider API`
 
-**MIDI device control & reprogram** -> `Don't allow sites to control and reprogram your MIDI devices`
+* **MIDI device control & reprogram** -> `Don't allow sites to control and reprogram your MIDI devices`
 
-**USB devices** -> `Don't allow sites to connect to USB devices`
+* **USB devices** -> `Don't allow sites to connect to USB devices`
 
-**File editing** -> `Don't allow sites to edit files or folders on your device`
+* **File editing** -> `Don't allow sites to edit files or folders on your device`
 
-**HID devices** -> `Don't allow sites to connect to HID devices`
+* **HID devices** -> `Don't allow sites to connect to HID devices`
 
-**Clipboard** -> `Don't allow sites to see text or images on your clipboard`
+* **Clipboard** -> `Don't allow sites to see text or images on your clipboard`
 
-**Payment handlers** -> `Don't allow sites to install payment handlers`
+* **Payment handlers** -> `Don't allow sites to install payment handlers`
 
-**Augmented reality** -> `Do not allow sites to create a 3D map of your surroundings or track camera position`
+* **Augmented reality** -> `Do not allow sites to create a 3D map of your surroundings or track camera position`
 
-**Virtual reality** -> `Don't allow sites to use virtual reality devices or data`
+* **Virtual reality** -> `Don't allow sites to use virtual reality devices or data`
 
-**Window management** -> `Don't allow sites to manage windows on all your displays`
+* **Window management** -> `Don't allow sites to manage windows on all your displays`
 
-**Fonts** -> `Don't allow sites to use fonts installed on your device`
+* **Fonts** -> `Don't allow sites to use fonts installed on your device`
 
-**Pop-ups and redirects** -> `Don't allow sites to send pop-ups or use redirects` *(Should be default)*
+* **Pop-ups and redirects** -> `Don't allow sites to send pop-ups or use redirects` *(Should be default)*
 
-**Protected content IDs** -> `Don't allow sites to play protected content` - https://www.eff.org/deeplinks/2017/10/drms-dead-canary-how-we-just-lost-web-what-we-learned-it-and-what-we-need-do-next
+* **Protected content IDs** -> `Don't allow sites to play protected content` - https://www.eff.org/deeplinks/2017/10/drms-dead-canary-how-we-just-lost-web-what-we-learned-it-and-what-we-need-do-next
 
-**V8 optimizer** -> `Don't allow sites to use the V8 optimizer`
+* **V8 optimizer** -> `Don't allow sites to use the V8 optimizer`
 
+<br>
 
 **WebRTC IP handling policy** -> `Disable non-proxied UDP` *(Don't set this if you have to call on the web through services like Discord & Zoom)*
 
@@ -199,11 +205,9 @@ Site and Shields Settings:
 
 **Manage search engines and site search:**
 
-Remove any search engines here you don't use (i.e. `Google` & `Bing`)
+* Remove any search engines here you don't use (i.e. `Google` & `Bing`)
 
-
-Site Search -> **History** -> 3 dots -> `Deactivate`
-
+* Site Search -> **History** -> 3 dots -> `Deactivate`
 
 # Extensions
 
