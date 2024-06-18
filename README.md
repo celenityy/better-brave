@@ -77,15 +77,15 @@ Show autocomplete suggestions in the toolbar -> **Browsing History** -> ❌
 
 Clear browsing data -> **On exit:**
 
-* Browsing history -> ✅
+* `Browsing history` -> ✅
 
-* Download history -> ✅
+* `Download history` -> ✅
 
-* Cached images and files -> ✅
+* `Cached images and files` -> ✅
 
-* Passwords and passkeys -> ✅ *(You should not save info in your browser like this for security reasons, use a dedicated password manager like Bitwarden or Proton Pass instead)*
+* `Passwords and passkeys` -> ✅ *(You should not save info in your browser like this for security reasons, use a dedicated password manager like Bitwarden or Proton Pass instead)*
 
-* Autofill form data -> ✅ *(You should not save info in your browser like this for security reasons, use a dedicated password manager like Bitwarden or Proton Pass instead)*
+* `Autofill form data` -> ✅ *(You should not save info in your browser like this for security reasons, use a dedicated password manager like Bitwarden or Proton Pass instead)*
 
 <br>
 
