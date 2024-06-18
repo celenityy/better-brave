@@ -207,7 +207,7 @@ Site and Shields Settings:
 
 * Remove any search engines here you don't use (i.e. `Google` & `Bing`)
 
-* Site Search -> **History** -> 3 dots -> `Deactivate`
+* Site search -> **History** -> 3 dots -> `Deactivate`
 
 # Extensions
 
