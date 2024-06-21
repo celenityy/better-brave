@@ -289,8 +289,6 @@ Addresses & more -> **Save and fill addresses** -> ❌ *(You should not save inf
 
 **#native-brave-wallet** -> `Disabled`
 
-**#sanitizer-api** -> `Enabled`
-
 **#strict-origin-isolation** -> `Enabled`
 
 # Additional recommendations
