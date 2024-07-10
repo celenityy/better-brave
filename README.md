@@ -213,7 +213,7 @@ Site and Shields Settings:
 
 **Allow Google login for extensions** -> ❌
 
-**Hangouts** -> ❌ *(Don't set this if you use screen sharing in the browser)*
+**Hangouts** -> ❌ *(This feature gives Google domains special access that other sites can't use... https://x.com/lcasdev/status/1810696257137959018, also seems useless nowadays, tested screen sharing & video calling and seems to work without issue in most cases)*
 
 **Media Router** -> ❌
 
