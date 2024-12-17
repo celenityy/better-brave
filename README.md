@@ -6,7 +6,6 @@ My recommendations for the ultimate configuration of the Brave Browser :)
 
 **NOTE:** This project can be found on both [Codeberg](https://codeberg.org/celenity/better-brave), which will act as the main & preferred way to contribute, and [GitHub](https://github.com/celenityy/better-brave).
 
-
 # Get started
 
 **On startup** -> `Open the New Tab page`
@@ -141,7 +140,7 @@ Site and Shields Settings:
 
 * **Pop-ups and redirects** -> `Don't allow sites to send pop-ups or use redirects` *(Should be default)*
 
-* **Protected content IDs** -> `Don't allow sites to play protected content` - https://www.eff.org/deeplinks/2017/10/drms-dead-canary-how-we-just-lost-web-what-we-learned-it-and-what-we-need-do-next
+* **Protected content IDs** -> `Don't allow sites to play protected content` - [https://www.eff.org/deeplinks/2017/10/drms-dead-canary-how-we-just-lost-web-what-we-learned-it-and-what-we-need-do-next](https://www.eff.org/deeplinks/2017/10/drms-dead-canary-how-we-just-lost-web-what-we-learned-it-and-what-we-need-do-next)
 
 * **V8 optimizer** -> `Don't allow sites to use the V8 optimizer`
 
@@ -213,13 +212,13 @@ Site and Shields Settings:
 
 **Allow Google login for extensions** -> ❌
 
-**Hangouts** -> ❌ *([This feature gives Google domains special access that other sites can't use](https://x.com/lcasdev/status/1810696257137959018)... also seems useless nowadays, tested screen sharing & video calling and seems to work without issue in most cases)*
+**Hangouts** -> ❌ *([This feature gives Google domains special privileges...](https://x.com/lcasdev/status/1810696257137959018)... also seems useless nowadays, tested screen sharing & video calling and seems to work without issue in most cases)*
 
 **Media Router** -> ❌
 
 **Web Torrent** -> ❌
 
-**Widevine** -> ❌ *(Should be default)* - https://www.eff.org/deeplinks/2017/10/drms-dead-canary-how-we-just-lost-web-what-we-learned-it-and-what-we-need-do-next
+**Widevine** -> ❌ *(Should be default)* - [https://www.eff.org/deeplinks/2017/10/drms-dead-canary-how-we-just-lost-web-what-we-learned-it-and-what-we-need-do-next](https://www.eff.org/deeplinks/2017/10/drms-dead-canary-how-we-just-lost-web-what-we-learned-it-and-what-we-need-do-next)
 
 # Autofill and passwords
 
@@ -297,6 +296,6 @@ Addresses & more -> **Save and fill addresses** -> ❌ *(You should not save inf
 
 * Similarly, [please don't use more than one content blocking extension](https://x.com/gorhill/status/1033706103782170625). Don't install any content blocking extensions if you use Brave's built-in Shields as well.
 
-* Use a (reputable) VPN. I would recommend either [Mullvad](https://mullvad.net/) or [ProtonVPN](https://protonvpn.com/).
-
 * Use a (reputable) anti-virus if possible. On Windows, you can use the built-in [Microsoft Defender Antivirus](https://en.wikipedia.org/wiki/Microsoft_Defender_Antivirus), on macOS, you can stick to the built-in [XProtect](https://support.apple.com/guide/security/protecting-against-malware-sec469d47bd8/web), and on Linux, you can use [ClamAV](https://www.clamav.net/).
+
+* Use a (reputable) VPN. I would recommend either [Mullvad](https://mullvad.net/) or [ProtonVPN](https://protonvpn.com/).
