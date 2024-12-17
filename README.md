@@ -298,4 +298,4 @@ Addresses & more -> **Save and fill addresses** -> ❌ *(You should not save inf
 
 * Use a (reputable) anti-virus if possible. On Windows, you can use the built-in [Microsoft Defender Antivirus](https://en.wikipedia.org/wiki/Microsoft_Defender_Antivirus), on macOS, you can stick to the built-in [XProtect](https://support.apple.com/guide/security/protecting-against-malware-sec469d47bd8/web), and on Linux, you can use [ClamAV](https://www.clamav.net/).
 
-* Use a (reputable) VPN. I would recommend either [Mullvad](https://mullvad.net/) or [ProtonVPN](https://protonvpn.com/).
+* Use a (reputable) VPN. I would generally recommend either [Mullvad](https://mullvad.net/), [IVPN](https://www.ivpn.net/), or [ProtonVPN](https://protonvpn.com/).
