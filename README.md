@@ -296,6 +296,6 @@ Addresses & more -> **Save and fill addresses** -> ❌ *(You should not save inf
 
 * Similarly, [please don't use more than one content blocking extension](https://x.com/gorhill/status/1033706103782170625). Don't install any content blocking extensions if you use Brave's built-in Shields as well.
 
-* Use a (reputable) anti-virus if possible. On Windows, you can use the built-in [Microsoft Defender Antivirus](https://en.wikipedia.org/wiki/Microsoft_Defender_Antivirus), on macOS, you can stick to the built-in [XProtect](https://support.apple.com/guide/security/protecting-against-malware-sec469d47bd8/web), and on Linux, you can use [ClamAV](https://www.clamav.net/).
+* Use a (reputable) anti-virus if possible. On Windows, you can use the built-in [Microsoft Defender Antivirus](https://wikipedia.org/wiki/Microsoft_Defender_Antivirus), on macOS, you can stick to the built-in [XProtect](https://support.apple.com/guide/security/protecting-against-malware-sec469d47bd8/web), and on Linux, you can use [ClamAV](https://www.clamav.net/).
 
 * Use a (reputable) VPN. I would generally recommend either [Mullvad](https://mullvad.net/), [IVPN](https://www.ivpn.net/), or [ProtonVPN](https://protonvpn.com/).
